@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "body": "Đã bán",
+        "permission": 0
+    },
+    {
+        "id": 2,
+        "body": "Sản phẩm này còn không",
+        "permission": 1
+    }
+]

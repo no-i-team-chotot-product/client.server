@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "userId_deviceId": "198CF567-1EEC-46BC-B44B-818BC6EC2F40",
+    "account_id": "14295493",
+    "account_name": "hồ quang hiếu",
+    "unlogin_name": "Hieu",
+    "list_id": "63117890",
+    "comment_time": "1569041282000",
+    "body": "Đã bán",
+    "rep_comment_id": "34390281"
+  },
+  {
+    "id": 34390281,
+    "userId_deviceId": "198CF567-1EEC-46BC-B44B-818BC6EC2F40",
+    "account_id": "14295493",
+    "account_name": "hồ quang hiếu",
+    "unlogin_name": "Hieu",
+    "list_id": "63117890",
+    "comment_time": "1569041282000",
+    "body": "Sản phẩm này còn không",
+    "rep_comment_id": ""
+  }
+]
